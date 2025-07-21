@@ -1,5 +1,6 @@
 // Shared logic for all pages
 // Data keys
+// https://rbrugnollo.github.io/VagasTorres/
 const APARTMENTS_KEY = 'apartmentsList';
 const SPOTS_KEY = 'spotsList';
 const PREASSIGNED_KEY = 'preassignedList';
